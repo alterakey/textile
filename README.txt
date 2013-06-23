@@ -39,3 +39,4 @@ textile> find 今週のハイライト</p>
  * Huge memory consumption
  * Search shell is stupid -- no history, no readline, ...
  * Requires newer regex module
+ * Incredibly hackish
