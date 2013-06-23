@@ -8,6 +8,8 @@ For the keyword-seeking souls suffering in the world of braindead security softw
 0. HOW TO USE
 -------------
 
+$ easy_install regex
+...
 $ python ./textile.py
 textile> update /path/to/project
 updating /path/to/project ..
